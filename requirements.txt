@@ -1,0 +1,15 @@
+# Core dependencies for synthetic consumer generation
+pydantic>=2.0.0,<3.0.0
+numpy>=1.24.0,<2.0.0
+scipy>=1.10.0,<2.0.0
+faker>=18.0.0,<19.0.0
+
+# Agent-based modeling framework
+mesa>=2.0.0,<3.0.0
+
+# Statistical modeling
+statsmodels>=0.14.0,<1.0.0
+
+# Testing dependencies
+pytest>=7.4.0,<8.0.0
+pytest-cov>=4.1.0,<5.0.0
